@@ -1,4 +1,5 @@
 # Cashflow-dashboard
 ## Objective
-- To easy checking status of cashflow so that can 
-<img width="1662" height="933" alt="image" src="https://github.com/user-attachments/assets/14616f70-5297-4138-a376-ae42ca4d1d70" />
+- Define the statement of cashflow so that they can make the action when needed, quickly capture where the rootcause comes from as well
+- Help in tracking bussiness growth, Which brand's service is not work well
+### Dashboard
